@@ -1,0 +1,2 @@
+# mazda
+IA Blog
